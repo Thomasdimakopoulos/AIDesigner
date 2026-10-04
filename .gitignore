@@ -66,7 +66,3 @@ site/examples/hum-0[3-8]/
 site/_tests/_thumbs/hum-02.jpg
 
 site/examples/lumen-0[2-4]/
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
-.gitignore
